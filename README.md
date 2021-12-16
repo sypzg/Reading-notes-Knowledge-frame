@@ -24,12 +24,17 @@
 ####16.12.2021
 
 《Linux高性能服务器编程》
+
 《经济学原理》chapter1~chapter16
+
 《编码》1～11
+
 《程序员的自我修养——编译链接与库》1～3.5
+
 《effective C++》条款1～16
 
 _**READY TO READ**_
 
 《effective c++》
+
 review《CS:APP》
